@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempcover.API", "Tempcover.API.csproj", "{092C74FD-13A2-4C40-B890-0065240A8165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempcover.API.Tests", "..\Tempcover.API.Tests\Tempcover.API.Tests.csproj", "{2B215DD7-3F23-438D-AAB8-312FBF803C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092C74FD-13A2-4C40-B890-0065240A8165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092C74FD-13A2-4C40-B890-0065240A8165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092C74FD-13A2-4C40-B890-0065240A8165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092C74FD-13A2-4C40-B890-0065240A8165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B215DD7-3F23-438D-AAB8-312FBF803C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B215DD7-3F23-438D-AAB8-312FBF803C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B215DD7-3F23-438D-AAB8-312FBF803C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B215DD7-3F23-438D-AAB8-312FBF803C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

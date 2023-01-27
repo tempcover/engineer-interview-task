@@ -1,0 +1,34 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.main {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  background-color: #173276;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+}
+
+.table-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f4f8ff;
+}
+
+.list {
+  list-style: none;
+}
