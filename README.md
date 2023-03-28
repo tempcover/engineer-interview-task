@@ -24,7 +24,7 @@ This is a .Net 7 Test project
 
 ## **Getting Started**
 
-- Fork/ clone this repository locally, which will be shared as part of the interview.
+- Fork this repository locally, which will be shared as part of the interview.
 - Ensure you have [Node](https://nodejs.org/en/) and [.Net 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) setup.
 - Run the following to setup your client application
 
@@ -37,7 +37,7 @@ cd Tempcover.Client && npm install
 ### **Client**
 
 ```
-cd Tempcover.Client && npm run start
+cd Tempcover.Client && npm run dev
 ```
 
 ### **API**

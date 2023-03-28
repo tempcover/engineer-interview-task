@@ -3,11 +3,17 @@
   text-align: center;
   height: 100%;
   width: 100%;
+  font-family: 'Lato'
 }
 
 .main {
   max-width: 1280px;
   margin: 0 auto;
+}
+
+
+.container {
+  text-align: left;
 }
 
 .header {
@@ -21,6 +27,15 @@
 .table-wrapper {
   display: flex;
   justify-content: center;
+}
+
+table{
+  width: 800px;
+  border: #173276 1px solid;
+}
+
+table tbody{
+  text-align:left; 
 }
 
 body {

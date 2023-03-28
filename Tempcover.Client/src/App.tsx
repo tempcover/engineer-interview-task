@@ -28,7 +28,7 @@ const App = () => {
       </div>
       <div className="main">
         <h1>Josh's cars</h1>
-
+        <div className="container">
         <h2>Introduction</h2>
 
         <p>
@@ -49,7 +49,7 @@ const App = () => {
         </p>
         <p>
           Please give this system a well deserved update to show all of Josh's
-          cars in the table below. Please consider:
+          cars in the table below. Please consider the following:
         </p>
         <ul className="list">
           <li>Any need for new entities</li>
@@ -67,6 +67,9 @@ const App = () => {
         <p>
           HINT: We've left this pretty barebones intentionally, you are free to
           add additional libraries to assist with the above tasks.
+        </p>
+        <p>
+          EXTRA: If you have time, please set up a test within the /test project to check your work. Playright(https://playwright.dev/) has been set up.
         </p>
         <div className="table-wrapper">
           <table className="table">
@@ -87,6 +90,7 @@ const App = () => {
               })}
             </tbody>
           </table>
+        </div>     
         </div>
       </div>
     </div>
