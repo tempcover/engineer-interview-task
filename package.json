@@ -1,0 +1,21 @@
+{
+  "name": "engineer-interview-task",
+  "version": "1.0.0",
+  "description": "1. [Introduction](#introduction)\r 2. [Getting started](#getting-started)\r 3. [Running the application](#running-the-application)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tempcover/engineer-interview-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tempcover/engineer-interview-task/issues"
+  },
+  "homepage": "https://github.com/tempcover/engineer-interview-task#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  }
+}

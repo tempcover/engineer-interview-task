@@ -284,3 +284,6 @@ thumb
 sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/aspnetcore,react
+/test-results/
+/playwright-report/
+/playwright/.cache/
