@@ -16,16 +16,16 @@ This is a React app built using Vite.
 
 ### **Tempcover.API**
 
-This is a .Net 7 Web API
+This is a .Net 8 Web API
 
 ### **Tempcover.API.Tests**
 
-This is a .Net 7 Test project
+This is a .Net 8 Test project
 
 ## **Getting Started**
 
 - Fork this repository locally, which will be shared as part of the interview.
-- Ensure you have [Node](https://nodejs.org/en/) and [.Net 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) setup.
+- Ensure you have [Node](https://nodejs.org/en/) and [.Net 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) setup.
 - Run the following to setup your client application
 
 ```
