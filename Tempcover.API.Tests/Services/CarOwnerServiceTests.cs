@@ -17,7 +17,7 @@ public class CarOwnerServiceTests
 
         // Assert
         Assert.IsNotNull(result);
-        // Should be testing more than just "is is not null" 
+        // Should be testing more than just "it is not null" 
         // Should be testing more methods down and up the stack
     }
 }
